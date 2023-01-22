@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "io": "^1.0.5",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  },
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "name": "4-white",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
