@@ -11,7 +11,7 @@
   },
   "name": "4-white",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "description": ""
